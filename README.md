@@ -32,4 +32,6 @@ The project attempts to answer the following questions:
 
 (3) What are some other possible tables/graphs that we could create?
 
+Refer to report in MS Word which provides further details
+
 
